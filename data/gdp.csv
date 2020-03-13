@@ -1,0 +1,612 @@
+table|name|amount
+0|Qatar|132,886
+0|Macau|114,363
+0|Luxembourg|108,951
+0|Singapore|103,181
+0|Ireland|83,399
+0|Brunei|80,384
+0|Norway|76,684
+0|United Arab Emirates|69,435
+0|Hong Kong|66,528
+0|Kuwait|66,387
+0|Switzerland|66,196
+0|United States|65,112
+0|San Marino|61,575
+0|Netherlands|58,341
+0|Iceland|56,066
+0|Saudi Arabia|55,704
+0|Taiwan|55,078
+0|Sweden|54,628
+0|Denmark|53,882
+0|Germany|53,567
+0|Austria|53,558
+0|Australia|53,379
+0|Bahrain|50,931
+0|Canada|50,725
+0|Belgium|49,529
+0|Finland|47,975
+0|Malta|47,405
+0|Oman|47,366
+0|France|47,223
+0|United Kingdom|46,827
+0|Japan|45,546
+0|Korea, South|44,740
+0|Spain|41,592
+0|Cyprus|41,407
+0|New Zealand|40,943
+0|Italy|40,470
+0|Puerto Rico|40,067
+0|Israel|39,121
+0|Czech Republic|38,834
+0|Slovenia|38,462
+0|Lithuania|36,701
+0|Slovakia|36,640
+0|Estonia|35,853
+0|Hungary|34,046
+0|Poland|33,891
+0|Portugal|33,665
+0|Bahamas, The|33,333
+0|Malaysia|32,881
+0|Trinidad and Tobago|32,715
+0|Seychelles|31,693
+0|Latvia|31,402
+0|Saint Kitts and Nevis|30,578
+0|Greece|30,252
+0|Russia|29,642
+0|Antigua and Barbuda|29,346
+0|Kazakhstan|28,849
+0|Turkey|28,264
+0|Romania|27,998
+0|Croatia|27,728
+0|Panama|26,822
+0|Chile|26,317
+0|Mauritius|24,996
+0|Bulgaria|24,595
+0|Uruguay|23,581
+0|Maldives|23,312
+0|Equatorial Guinea|21,300
+0|Mexico|20,868
+0|Belarus|20,644
+0|Turkmenistan|20,411
+0|Thailand|20,365
+0|Montenegro|20,084
+0|Argentina|20,055
+0|China|19,504
+0|Dominican Republic|19,411
+0|Gabon|19,057
+0|Barbados|18,921
+0|Azerbaijan|18,616
+0|Serbia|18,564
+0|Botswana|18,558
+0|[n 2]|18,391
+0|Costa Rica|18,038
+0|Iraq|18,025
+0|Iran|17,662
+0|Grenada|16,717
+0|North Macedonia|16,486
+0|Brazil|16,462
+0|Palau|16,235
+0|Algeria|15,696
+0|Suriname|15,532
+0|Colombia|15,541
+0|Lebanon|15,049
+0|Peru|14,719
+0|Saint Lucia|14,492
+0|Mongolia|14,309
+0|Bosnia and Herzegovina|14,220
+0|Egypt|14,023
+0|Indonesia|13,998
+0|Albania|13,991
+0|Sri Lanka|13,897
+0|South Africa|13,754
+0|Paraguay|13,584
+0|Tunisia|12,661
+0|Saint Vincent and the Grenadines|12,454
+0|Kosovo|12,322
+0|Georgia|12,227
+0|Fiji|12,147
+0|Dominica|12,008
+0|Ecuador|11,743
+0|Namibia|11,266
+0|Eswatini|11,161
+0|Armenia|11,083
+0|Bhutan|9,876
+0|Ukraine|9,775
+0|Jamaica|9,692
+0|Jordan|9,649
+0|Philippines|9,471
+0|Libya|9,358
+0|Morocco|9,235
+0|Guyana|9,094
+0|Uzbekistan|9,000
+0|Nauru|8,999
+0|Guatemala|8,705
+0|Belize|8,664
+0|India|8,378
+0|El Salvador|8,313
+0|Bolivia|8,172
+0|Laos|8,110
+0|Vietnam|8,066
+0|Cape Verde|7,729
+0|Moldova|7,703
+0|Angola|6,752
+0|Congo, Republic of the|7,174
+0|Myanmar|6,707
+0|Tonga|6,486
+0|Ghana|6,452
+0|Samoa|6,152
+0|Nigeria|6,055
+0|Pakistan|5,872
+0|Djibouti|5,568
+0|Honduras|5,395
+0|Nicaragua|5,290
+0|Timor-Leste|5,254
+0|Bangladesh|5,028
+0|Mauritania|4,881
+0|Cambodia|4,664
+0|Côte d'Ivoire|4,457
+0|Tuvalu|4,277
+0|Zambia|4,148
+0|Sudan|4,072
+0|Kyrgyzstan|4,056
+0|Papua New Guinea|3,983
+0|Cameroon|3,955
+0|Kenya|3,875
+0|Marshall Islands|3,868
+0|Senegal|3,853
+0|Lesotho|3,615
+0|Tajikistan|3,589
+0|Micronesia, Federated States of|3,562
+0|Benin|3,446
+0|Tanzania|3,402
+0|São Tomé and Príncipe|3,387
+0|Nepal|3,318
+0|Vanuatu|2,957
+0|Comoros|2,799
+0|Gambia, The|2,745
+0|Zimbabwe|2,702
+0|Uganda|2,631
+0|Ethiopia|2,511
+0|Chad|2,481
+0|Mali|2,471
+0|Rwanda|2,452
+0|Guinea|2,441
+0|Solomon Islands|2,303
+0|Yemen|2,280
+0|Kiribati|2,138
+0|Afghanistan|2,095
+0|Burkina Faso|2,077
+0|Guinea-Bissau|2,016
+0|Haiti|1,878
+0|Togo|1,826
+0|Madagascar|1,699
+0|Sierra Leone|1,690
+0|South Sudan|1,602
+0|Liberia|1,414
+0|Mozambique|1,303
+0|Malawi|1,240
+0|Niger|1,106
+0|Eritrea|1,060
+0|Congo, Democratic Republic of the|849
+0|Central African Republic|822
+0|Burundi|727
+0|Syria|n/a
+0|Venezuela|n/a
+1|Qatar|126,898
+1|Macau|123,892
+1|Luxembourg|113,337
+1|Singapore|101,531
+1|Ireland|83,203
+1|Brunei|80,920
+1|United Arab Emirates|75,075
+1|Kuwait|72,897
+1|Switzerland|68,060
+1|Norway|65,510
+1|Hong Kong|64,596
+1|San Marino|63,037 (2017)
+1|United States|62,794
+1|Iceland|57,303
+1|Netherlands|56,328
+1|Denmark|55,671
+1|Austria|55,454
+1|Saudi Arabia|55,335
+1|Sweden|53,208
+1|Germany|53,074
+1|Australia|51,663
+1|Belgium|51,408
+1|Finland|48,416
+1|Canada|48,130
+1|Bahrain|47,303
+1|United Kingdom|45,973
+1|France|45,342
+1|European Union|43,737
+1|Japan|42,797
+1|Malta|42,581
+1|Oman|41,859
+1|Italy|41,830
+1|New Zealand|41,005
+1|Korea, South|40,111
+1|Israel|39,919
+1|Czech Republic|39,743
+1|Spain|39,715
+1|Slovenia|38,048
+1|Cyprus|36,155 (2017)
+1|Estonia|35,973
+1|Lithuania|35,461
+1|Slovakia|33,736
+1|Portugal|33,415
+1|Bahamas, The|32,087
+1|Trinidad and Tobago|32,014
+1|Malaysia|31,782
+1|Poland|31,336
+1|Hungary|31,102
+1|Seychelles|30,557
+1|Latvia|30,304
+1|Saint Kitts and Nevis|30,207
+1|Greece|29,592
+1|Romania|28,206
+1|Turkey|28,068
+1|Kazakhstan|27,879
+1|Croatia|27,579
+1|Russia|27,147
+1|Antigua and Barbuda|26,868
+1|Panama|25,553
+1|Chile|25,222
+1|Mauritius|23,751
+1|Uruguay|23,572
+1|Equatorial Guinea|22,743
+1|Bulgaria|21,960
+1|Iran|21,011 (2017)
+1|Libya|20,764
+1|Montenegro|20,690
+1|Argentina|20,610
+1|Belarus|19,994
+1|Mexico|19,844
+1|Turkmenistan|19,304
+1|Thailand|19,051
+1|Botswana|18,615
+1|Barbados|18,554
+1|Palau|18,510
+1|China|18,236
+1|Azerbaijan|18,044
+1|World|17,948
+1|Gabon|17,875
+1|Dominican Republic|17,748
+1|Costa Rica|17,671
+1|Iraq|17,435
+1|Serbia|17,434
+1|Nauru|16,504
+1|North Macedonia|16,358
+1|Brazil|16,096
+1|Grenada|15,557
+1|Suriname|15,510
+1|Algeria|15,481
+1|Maldives|15,307
+1|Colombia|15,012
+1|Bosnia and Herzegovina|14,623
+1|Peru|14,418
+1|Saint Lucia|13,881
+1|Mongolia|13,799
+1|South Africa|13,686
+1|Paraguay|13,599
+1|Sri Lanka|13,473
+1|Albania|13,364
+1|Lebanon|13,081
+1|Indonesia|13,079
+1|Tunisia|12,502
+1|Egypt|12,412
+1|Saint Vincent and the Grenadines|12,288
+1|Georgia|12,004
+1|Ecuador|11,734
+1|Kosovo|11,348
+1|Dominica|11,129
+1|Namibia|11,101
+1|Fiji|10,879
+1|Eswatini|10,637
+1|Bhutan|10,534
+1|Armenia|10,343
+1|Jordan|9,478
+1|Jamaica|9,326
+1|Ukraine|9,233
+1|Philippines|8,951
+1|Belize|8,648
+1|Guyana|8,640
+1|Morocco|8,586
+1|Uzbekistan|8,556
+1|Guatemala|8,462
+1|El Salvador|8,331
+1|Bolivia|7,873
+1|India|7,762
+1|Timor-Leste|7,658
+1|Cape Verde|7,454
+1|Vietnam|7,447
+1|Laos|7,439
+1|Moldova|7,271
+1|Myanmar|6,674
+1|Samoa|6,483
+1|Angola|6,452
+1|Tonga|6,419
+1|Nigeria|5,990
+1|Congo, Republic of the|5,662
+1|Pakistan|5,567
+1|Nicaragua|5,533
+1|West Bank and Gaza|5,157
+1|Honduras|5,138
+1|Sudan|4,759
+1|Ghana|4,746
+1|Bangladesh|4,371
+1|Cambodia|4,360
+1|Papua New Guinea|4,336
+1|Zambia|4,223
+1|Côte d'Ivoire|4,207
+1|Mauritania|4,151
+1|Tuvalu|4,049
+1|Marshall Islands|3,989
+1|Kyrgyzstan|3,884
+1|Cameroon|3,785
+1|Senegal|3,782
+1|Micronesia, Federated States of|3,553
+1|Kenya|3,467
+1|Tajikistan|3,449
+1|São Tomé and Príncipe|3,418
+1|Tanzania|3,227
+1|Vanuatu|3,221
+1|Lesotho|3,219
+1|Nepal|3,089
+1|Zimbabwe|3,029
+1|Comoros|2,913
+1|Gambia, The|2,612
+1|Yemen|2,575
+1|Guinea|2,504
+1|Benin|2,424
+1|Solomon Islands|2,422
+1|Mali|2,316
+1|Kiribati|2,293
+1|Rwanda|2,251
+1|Uganda|2,038
+1|Ethiopia|2,022
+1|Burkina Faso|1,984
+1|Chad|1,968
+1|Afghanistan|1,955
+1|Madagascar|1,891
+1|Haiti|1,866
+1|Guinea-Bissau|1,799
+1|Togo|1,773
+1|Sierra Leone|1,602
+1|Mozambique|1,459
+1|Malawi|1,311
+1|Liberia|1,308
+1|Niger|1,063
+1|Congo, Democratic Republic of the|932
+1|Central African Republic|859
+1|Burundi|744
+2|Liechtenstein|139,100
+2|Qatar|124,900
+2|Monaco|115,700
+2|Macau|114,400
+2|Luxembourg|109,100
+2|Falkland Islands|96,200
+2|Singapore|90,500
+2|Bermuda|85,700
+2|Isle of Man|84,600
+2|Brunei|76,700
+2|Ireland|72,600
+2|Norway|70,600
+2|Kuwait|69,700
+2|United Arab Emirates|68,200
+2|Sint Maarten|66,800
+2|Gibraltar|61,700
+2|Switzerland|61,400
+2|Hong Kong|61,000
+2|San Marino|59,500
+2|United States|59,500
+2|Saudi Arabia|55,300
+2|Netherlands|53,600
+2|Guernsey|52,500
+2|Iceland|52,100
+2|Bahrain|51,800
+2|Sweden|51,300
+2|Germany|50,200
+2|Australia|49,900
+2|Andorra|49,900
+2|Taiwan|49,800
+2|Denmark|49,600
+2|Jersey|49,500
+2|Austria|49,200
+2|Canada|48,100
+2|Belgium|46,300
+2|Oman|45,500
+2|Finland|44,000
+2|Cayman Islands|43,800
+2|France|43,600
+2|United Kingdom|43,600
+2|Japan|42,700
+2|Malta|42,500
+2|British Virgin Islands|42,300
+2|European Union|40,900
+2|Faroe Islands|40,000
+2|Korea, South|39,400
+2|New Zealand|38,900
+2|Spain|38,300
+2|Italy|38,100
+2|Greenland|37,600
+2|Puerto Rico|37,300
+2|Cyprus|36,600
+2|Israel|36,200
+2|U.S. Virgin Islands|36,100
+2|Czech Republic|35,200
+2|Equatorial Guinea|34,900
+2|Saint Pierre and Miquelon|34,900
+2|Slovenia|34,100
+2|Slovakia|32,900
+2|Lithuania|31,900
+2|Estonia|31,500
+2|Trinidad and Tobago|31,200
+2|New Caledonia|31,100
+2|Guam|30,500
+2|Portugal|30,300
+2|Poland|29,300
+2|Turks and Caicos Islands|29,100
+2|Seychelles|28,900
+2|Hungary|28,900
+2|Malaysia|28,900
+2|Russia|27,900
+2|Greece|27,800
+2|Latvia|27,300
+2|Saint Kitts and Nevis|26,800
+2|Turkey|26,500
+2|Antigua and Barbuda|26,300
+2|Kazakhstan|26,100
+2|Aruba|25,300
+2|Bahamas, The|25,100
+2|Chile|24,600
+2|Panama|24,300
+2|Croatia|24,100
+2|Romania|24,000
+2|Uruguay|22,400
+2|Bulgaria|21,600
+2|Mauritius|21,600
+2|Argentina|20,700
+2|Iran|20,000
+2|Mexico|19,500
+2|Lebanon|19,500
+2|Gabon|19,300
+2|Saint Martin|19,300
+2|Maldives|19,200
+2|Turkmenistan|18,700
+2|Belarus|18,600
+2|Botswana|18,100
+2|Thailand|17,800
+2|Barbados|17,500
+2|Azerbaijan|17,400
+2|Montenegro|17,400
+2|Costa Rica|17,200
+2|Iraq|17,000
+2|French Polynesia|17,000
+2|Dominican Republic|17,000
+2|Palau|16,700
+2|China|16,600
+2|Brazil|15,500
+2|Serbia|15,200
+2|North Macedonia|15,200
+2|Algeria|15,100
+2|Curaçao|15,000
+2|Grenada|14,700
+2|Colombia|14,500
+2|Suriname|13,900
+2|Saint Lucia|13,500
+2|South Africa|13,400
+2|Northern Mariana Islands|13,300
+2|Peru|13,300
+2|Egypt|13,000
+2|American Samoa|13,000
+2|Sri Lanka|13,000
+2|Mongolia|12,600
+2|Jordan|12,500
+2|Albania|12,500
+2|Indonesia|12,400
+2|Venezuela|12,400
+2|Cook Islands|12,300
+2|Nauru|12,200
+2|Anguilla|12,200
+2|Dominica|12,000
+2|Tunisia|12,000
+2|Cuba|11,900
+2|Saint Vincent and the Grenadines|11,600
+2|Namibia|11,500
+2|Bosnia and Herzegovina|11,400
+2|Ecuador|11,200
+2|Georgia|10,600
+2|Kosovo|10,400
+2|Fiji|9,900
+2|Eswatini|9,900
+2|Paraguay|9,800
+2|Libya|9,800
+2|Jamaica|9,200
+2|Armenia|9,100
+2|El Salvador|8,900
+2|Ukraine|8,700
+2|Bhutan|8,700
+2|Morocco|8,600
+2|Montserrat|8,500
+2|Guyana|8,300
+2|Belize|8,300
+2|Guatemala|8,200
+2|Philippines|8,200
+2|Saint Helena, Ascensionand Tristan da Cunha|7,800
+2|Bolivia|7,500
+2|Laos|7,400
+2|India|7,200
+2|Uzbekistan|7,000
+2|Vietnam|6,900
+2|Cape Verde|6,900
+2|Angola|6,800
+2|Congo, Republic of the|6,700
+2|Myanmar|6,300
+2|Nigeria|5,900
+2|Nicaragua|5,800
+2|Niue|5,800
+2|Moldova|5,700
+2|Samoa|5,700
+2|Tonga|5,600
+2|Honduras|5,500
+2|Pakistan|5,400
+2|Timor-Leste|5,000
+2|Ghana|4,600
+2|Sudan|4,600
+2|Mauritania|4,500
+2|Palestine, State of|4,300
+2|Bangladesh|4,200
+2|Cambodia|4,000
+2|Zambia|4,000
+2|Lesotho|3,900
+2|Côte d'Ivoire|3,900
+2|Tuvalu|3,800
+2|Papua New Guinea|3,800
+2|Wallis and Futuna|3,800
+2|Kyrgyzstan|3,700
+2|Djibouti|3,600
+2|Kenya|3,500
+2|Cameroon|3,400
+2|Marshall Islands|3,400
+2|Micronesia, Federated States of|3,400
+2|Tanzania|3,300
+2|São Tomé and Príncipe|3,200
+2|Tajikistan|3,100
+2|Syria|2,900
+2|Vanuatu|2,800
+2|Nepal|2,700
+2|Senegal|2,700
+2|Western Sahara|2,500
+2|Chad|2,400
+2|Uganda|2,400
+2|Zimbabwe|2,300
+2|Yemen|2,300
+2|Mali|2,200
+2|Benin|2,200
+2|Rwanda|2,100
+2|Ethiopia|2,100
+2|Solomon Islands|2,100
+2|Guinea|2,000
+2|Burkina Faso|1,900
+2|Kiribati|1,900
+2|Afghanistan|1,900
+2|Sierra Leone|1,800
+2|Guinea-Bissau|1,800
+2|Haiti|1,800
+2|Korea, North|1,700
+2|Gambia, The|1,700
+2|Togo|1,600
+2|Madagascar|1,600
+2|Comoros|1,600
+2|South Sudan|1,500
+2|Eritrea|1,400
+2|Mozambique|1,300
+2|Niger|1,200
+2|Malawi|1,200
+2|Tokelau|1,000
+2|Liberia|900
+2|Congo, Democratic Republic of the|800
+2|Burundi|800
+2|Central African Republic|700
+2|Somalia|N/A

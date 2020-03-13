@@ -1,13 +1,12 @@
 import os
-from distutils.core import setup
-
+from setuptools import setup
 
 with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setup(
     name='CIP Project Team 10',
-    version="0.0.1",
+    version="0.0.2",
     url='https://github.com/highproformas/CIP-10',
     license='FREE',
     author="Niclas Simmler, Pascal Himmelberger, Silvan Leibacher",
