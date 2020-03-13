@@ -40,4 +40,30 @@ class WikiGPDScraper(Scraper):
                 if len(rows) > 0:
                     data.extend(rows)
         df = pd.DataFrame(data, columns=['table', 'name', 'amount'])
-        df.to_csv('./data/gdp.csv', sep='|', header=True, index=False)
+        df.to_csv('./data/gdp_raw.csv', sep='|', header=True, index=False)
+        print('GDP Scrape done!')
+
+class WikiHealthScraper(Scraper):
+    def __init__(self, url='https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita'):
+        super().__init__(url)
+        print('Setup Wiki Health Expenditure Scraper')
+
+    def scrape(self):
+        soup = super().scrape()
+        data = []
+        table = soup.find(id='WHO2')
+
+        for row in table.select(selector='tr'):
+            cells = row.select(selector='td')
+
+            if len(cells) >= 4:
+                name = ((cells[0]).select(selector='a')[0]).text.strip()
+                value_2k = (cells[1]).text.strip()
+                value_2k5 = (cells[2]).text.strip()
+                value_2k10 = (cells[3]).text.strip()
+                value_2k15 = (cells[4]).text.strip()
+                data.append({'name': name, '2000': value_2k, '2005': value_2k5, '2010': value_2k10, '2015': value_2k15})
+        df = pd.DataFrame(data, columns=['name', '2000', '2005', '2010', '2015'])
+        df.head()
+        df.to_csv('./data/health_raw.csv', sep='|', header=True, index=False)
+        print('Health Expenditure Scrape done!')
